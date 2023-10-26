@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>BootCamp14 CICD Class</h1>
+    <h1>BootCamp14 CI/CD Class</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label> &nbsp; &nbsp;
+    <label for="mobile"><b>Enter mobile number</b></label> &nbsp; &nbsp;
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -25,10 +25,10 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registerbtn">Register Now</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="#">Login in</a>.</p>
   </div>
 
    <h1> CICD Module </h1>
