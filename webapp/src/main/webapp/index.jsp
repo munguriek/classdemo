@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Login in</a>.</p>
   </div>
 
-   <h1> CICD Module </h1>
+   <button> CICD Module </button>
 
   
 </form>
